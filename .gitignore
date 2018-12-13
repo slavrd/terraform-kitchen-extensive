@@ -1,0 +1,7 @@
+Gemfile.lock
+.DS_Store
+.ruby-version
+.kitchen/
+test/assets/key_pair*
+test/fixtures/wrapper/.terraform/
+test/fixtures/wrapper/*.tfstate*
